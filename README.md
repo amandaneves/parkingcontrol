@@ -1,6 +1,6 @@
 # API Parking Control
 
-API de controle de estacionamento.
+API RESTful de controle de estacionamento.
 
 **Spring MVC, Data, Web, Validation e Security**.
 
